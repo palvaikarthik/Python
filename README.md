@@ -1,2 +1,2 @@
 # Python
-Python
+Adding all data types concepts
